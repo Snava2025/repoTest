@@ -9,9 +9,10 @@ let game = {
             "endY": 191,
         },
         {
-            "name": "Autito chocador",
+            "name": "Auto Chocador",
             "initX": 282,
             "initY": 943,
+
             "endX": 377,
             "endY": 1010,
         }
